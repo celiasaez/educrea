@@ -5,7 +5,7 @@ grid-template-rows: 0.2fr .5fr 0.4fr 1fr;
 grid-column-gap: 5px;
 grid-row-gap: 5px;
 text-align: center;
-background-image: url('sky.jpg');
+background-image: url('https://celiasaez.github.io/educrea/assets/sky.jpg');
  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
