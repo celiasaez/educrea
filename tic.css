@@ -52,6 +52,6 @@ background-color:grey;
 border-radius: 5px; 
 margin:5px;}
 .arch3 { grid-area: 4 / 4 / 5 / 5; 
-background-image:'https://celiasaez.github.io/educrea/assets/nada.gif';
+background-image:url('https://celiasaez.github.io/educrea/assets/nada.gif');
 border-radius: 5px;
 margin:5px;}
