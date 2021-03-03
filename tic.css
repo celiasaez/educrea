@@ -52,6 +52,8 @@ background-color:grey;
 border-radius: 5px; 
 margin:5px;}
 .arch3 { grid-area: 4 / 4 / 5 / 5; 
-background-image:url('https://celiasaez.github.io/educrea/assets/nada.gif');
+ background-image:  url("https://mdn.mozillademos.org/files/11991/startransparent.gif"),
+                     url("https://mdn.mozillademos.org/files/7693/catfront.png");
+  background-color: transparent;
 border-radius: 5px;
 margin:5px;}
