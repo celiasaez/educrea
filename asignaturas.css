@@ -16,7 +16,7 @@ background-image: url('https://celiasaez.github.io/educrea/assets/background.jpg
 grid-area: 1 / 1 / 2 / 6; 
 
 }
-.titulo { grid-area: 2 / 2 / 3 / 5; 
+.titulo { grid-area: 2 / 2 / 3 / 6; 
 
 	background-color: rgba(77, 231, 189, 1);
 	border-radius: 25px;
