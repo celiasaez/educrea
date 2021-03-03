@@ -105,6 +105,8 @@ background-image: url('https://celiasaez.github.io/educrea/assets/background.jpg
 	grid-area: 2 / 8 / 4 / 9; 
 	background-color: rgba(255, 255, 255, 0.7);
 	border-radius: 5px;
+	justify-content: center;
+	align-items: center;
 	}
 .vistas { 
 	grid-area: 4 / 8 / 6 / 9; 
