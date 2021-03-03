@@ -24,7 +24,7 @@ grid-area: 1 / 1 / 2 / 6;
 	font-size:40px;
 }
 .tabla { grid-area: 3 / 2 / 5 / 5; 
-	background-color: rgba(255, 255, 255, 1);
+	background-color: rgba(184, 184, 184, 1);
 	border-radius: 5px;
 	}
 .uno { grid-area: 3 / 2 / 4 / 3;
