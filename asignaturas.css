@@ -44,14 +44,14 @@ grid-area: 1 / 1 / 2 / 6;
 	border-radius: 5px;
 	}
 .arch1 { grid-area: 4 / 2 / 5 / 3;
-background-color:white;
+background-color:grey;
 border-radius: 5px;
 margin:5px; }
 .arch2 { grid-area: 4 / 3 / 5 / 4;
-background-color:white;
+background-color:grey;
 border-radius: 5px; 
 margin:5px;}
 .arch3 { grid-area: 4 / 4 / 5 / 5; 
-background-color:white;
+background-color:grey;
 border-radius: 5px;
 margin:5px;}
