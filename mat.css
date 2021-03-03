@@ -19,6 +19,7 @@ grid-area: 1 / 1 / 2 / 6;
 .titulo { grid-area: 2 / 1 / 3 / 9; 	
 	background-color: rgba(255, 255, 255, 1);
 	border-radius: 5px;
+	font-size: 20px;
 }
 .tabla { grid-area: 3 / 2 / 5 / 5; 
 	background-color: rgba(184, 184, 184, 1);
@@ -26,7 +27,7 @@ grid-area: 1 / 1 / 2 / 6;
 	}
 .uno { grid-area: 3 / 2 / 4 / 3;
 	margin:5px; 
-	background-color: rgba(255, 255, 255, 1);
+	background-color: rgba(184, 184, 184, 1);
 	border-radius: 5px;
 	}
 .dos { grid-area: 3 / 3 / 4 / 4;
